@@ -1,1 +1,1 @@
-vulhub/nexus
+vulhub/nexus:latest
