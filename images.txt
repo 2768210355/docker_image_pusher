@@ -1,1 +1,2 @@
 vulhub/aj-report:1.4.0
+mysql:5.7
