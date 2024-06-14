@@ -1,1 +1,1 @@
-vulhub/nexus:3.68.0
+vulhub/aj-report:1.4.0
